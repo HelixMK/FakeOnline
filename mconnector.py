@@ -46,7 +46,7 @@ ips=[
 
 
 niki_detey_dombassa=[]
-with open('names.txt') as f:
+with open('names.txt', encoding="utf-8") as f:
 	niki_detey_dombassa = f.readlines()
 	for i in range(len(niki_detey_dombassa)):
 		niki_detey_dombassa[i]=niki_detey_dombassa[i].strip()
@@ -87,7 +87,7 @@ accs=[ # accounts
 
 
 servers=[
-"92.242.40.127:27015", 
+"92.242.40.127:27015",
 ]
 
 threads={}

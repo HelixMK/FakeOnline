@@ -1,5 +1,8 @@
 # FakeOnline for Garri's Mod
 ## Русский
+
+Автор: Solly
+
 Данный фейк онлайн эмулирует игру игрока на сервере с помощью SteamAPI, шанс получить блокировку очень маленький.
 
 1. Для запуска нужен Python и NodeJS
@@ -8,6 +11,8 @@
 Используется библиотека: [Leystryku/leysourceengineclien](https://github.com/Leystryku/leysourceengineclient)
 
 ## English
+
+Author: Solly
 
 This online fake emulates the player's game on the server using SteamAPI, the chance of getting blocked is very small.
 
